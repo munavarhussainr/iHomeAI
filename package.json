@@ -9,11 +9,15 @@
     "lint": "next lint"
   },
   "dependencies": {
+    "-": "^0.0.1",
     "@aws-amplify/ui-react": "^6.5.5",
     "aws-amplify": "^6.6.6",
+    "chart.js": "^4.4.6",
     "next": "14.2.10",
     "react": "^18",
-    "react-dom": "^18"
+    "react-chartjs-2": "^5.2.0",
+    "react-dom": "^18",
+    "save": "^2.9.0"
   },
   "devDependencies": {
     "@aws-amplify/backend": "^1.5.1",
